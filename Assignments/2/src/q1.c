@@ -8,7 +8,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
-#include "basic_lib.c"
+#include "basic_lib.h"
 
 double randouble(double min, double max)
 {
