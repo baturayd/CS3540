@@ -1,0 +1,17 @@
+Script started on Mon 12 Jan 2015 04:41:33 PM EST
+baturay@debian:~/CS3540/Assignments/1$ ./a1
+
+--------------------------------------------------
+Assignment 1 Question 1 - CS3540 - Baturay Daylak
+--------------------------------------------------
+Please enter the height of the person: 5
+Please enter the distance from the building: 10
+Please enter the elevation angle: 45
+--------------------------------------------------
+Height of the building is 15.00
+--------------------------------------------------
+
+baturay@debian:~/CS3540/Assignments/1$ exit
+exit
+
+Script done on Mon 12 Jan 2015 04:41:40 PM EST
