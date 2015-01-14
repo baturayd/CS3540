@@ -5,6 +5,8 @@
  * Description: Calculates standard deviation for an N element array.
  * Comments: randouble function has been gathered from a GNU source.
  */
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
@@ -19,9 +21,7 @@ double randouble(double min, double max)
 
 int main()
 {
-	//Assignment information
-	print_assignment_header(2,1);
-	
+
 	srand(time(NULL)); //This will make rand function generate unique output at each program run.
 	int i = 0;
 	int n = 50;
@@ -33,9 +33,8 @@ int main()
 		values[i] = randouble(0.0,100.0);
 		printf("%f\n",values[i]);
 	}
-	print_separator();
+
 	printf("\nStandard deviation of values: %f\n",std_dev(values,n));
-	print_separator();
-	print_newline();
-	return 0; 
+	return 0;
+
 }
