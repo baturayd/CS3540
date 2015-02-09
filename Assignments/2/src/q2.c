@@ -1,10 +1,16 @@
+/*
+ * Program: assignment2_2.c
+ * Author: Baturay Daylak, January 14, 2015
+ * Class: CS3540 Spring '15 - System Programing with Linux and C
+ * Description: Calculates standard deviation for an N element array.
+ * Comments: randouble function has been gathered from a GNU source.
+ */
 #include <stdio.h>
 #include <stdlib.h>
 #include "basic_lib.c"
 
 int main()
 {
-
 	double values[5][4] = {
 
 		{213.2, 564.3, 485.0, 321.5},
@@ -18,6 +24,9 @@ int main()
 	int i;
 	int j;
 
+	//Assignment information
+	print_assignment_header(2,2);
+	
 	printf("\nInput data for annual quarterly rain fall: \n");
 	for(i=0;i<5;i++)
 	{
@@ -27,7 +36,8 @@ int main()
 		printf("\n");
 	}
 
-	printf("\n");
+	print_separator();
+	print_newline();
 
 	for(i=0;i<5;i++)
 	{
@@ -37,5 +47,4 @@ int main()
 		printf("Average rainfall for %d: %f\n\n", 2010+i,ave_magn(values[i],4));
 
 	}
-
 }

@@ -1,0 +1,102 @@
+Script started on Tue 16 Sep 2014 09:02:16 PM EDT
+]0;bdaylak@cs3:~[?1034h[bdaylak@cs3 ~]$ cd CS/CS4720/assigns/3
+]0;bdaylak@cs3:~/CS/CS4720/assigns/3[bdaylak@cs3 3]$ ./assignment3_2.o
+
+Airports are listed in order:
+
+Airports are listed in order:
+	Airport code: 4
+	Airport code: 7
+
+Airports are listed in order:
+	Airport code: 4
+	Airport code: 1
+	Airport code: 7
+
+Airports are listed in order:
+	Airport code: 1
+	Airport code: 7
+]0;bdaylak@cs3:~/CS/CS4720/assigns/3[bdaylak@cs3 3]$ assignment3_1.o
+bash: assignment3_1.o: command not found
+]0;bdaylak@cs3:~/CS/CS4720/assigns/3[bdaylak@cs3 3]$ assignment3_1.o.assignment3_1.o/assignment3_1.o
+
+
+Program: Assignment 3.1 Complex number operations
+Author: Baturay Daylak
+
+ Input data:
+Array 1 Element 1) Real: 100.000000	 Imaginary: 50.000000
+Array 2 Element 1) Real: 5.000000	 Imaginary: 60.000000
+Array 1 Element 2) Real: 101.000000	 Imaginary: 49.000000
+Array 2 Element 2) Real: 6.000000	 Imaginary: 61.000000
+Array 1 Element 3) Real: 102.000000	 Imaginary: 48.000000
+Array 2 Element 3) Real: 7.000000	 Imaginary: 62.000000
+Array 1 Element 4) Real: 103.000000	 Imaginary: 47.000000
+Array 2 Element 4) Real: 8.000000	 Imaginary: 63.000000
+Array 1 Element 5) Real: 104.000000	 Imaginary: 46.000000
+Array 2 Element 5) Real: 9.000000	 Imaginary: 64.000000
+Array 1 Element 6) Real: 105.000000	 Imaginary: 45.000000
+Array 2 Element 6) Real: 10.000000	 Imaginary: 65.000000
+Array 1 Element 7) Real: 106.000000	 Imaginary: 44.000000
+Array 2 Element 7) Real: 11.000000	 Imaginary: 66.000000
+Array 1 Element 8) Real: 107.000000	 Imaginary: 43.000000
+Array 2 Element 8) Real: 12.000000	 Imaginary: 67.000000
+Array 1 Element 9) Real: 108.000000	 Imaginary: 42.000000
+Array 2 Element 9) Real: 13.000000	 Imaginary: 68.000000
+Array 1 Element 10) Real: 109.000000	 Imaginary: 41.000000
+Array 2 Element 10) Real: 14.000000	 Imaginary: 69.000000
+
+
+Addition results
+	1) Real: 105.000000	 Imaginary: 110.000000
+	2) Real: 107.000000	 Imaginary: 110.000000
+	3) Real: 109.000000	 Imaginary: 110.000000
+	4) Real: 111.000000	 Imaginary: 110.000000
+	5) Real: 113.000000	 Imaginary: 110.000000
+	6) Real: 115.000000	 Imaginary: 110.000000
+	7) Real: 117.000000	 Imaginary: 110.000000
+	8) Real: 119.000000	 Imaginary: 110.000000
+	9) Real: 121.000000	 Imaginary: 110.000000
+	10) Real: 123.000000	 Imaginary: 110.000000
+
+Substraction results
+	1) Real: 95.000000	 Imaginary: -10.000000
+	2) Real: 95.000000	 Imaginary: -12.000000
+	3) Real: 95.000000	 Imaginary: -14.000000
+	4) Real: 95.000000	 Imaginary: -16.000000
+	5) Real: 95.000000	 Imaginary: -18.000000
+	6) Real: 95.000000	 Imaginary: -20.000000
+	7) Real: 95.000000	 Imaginary: -22.000000
+	8) Real: 95.000000	 Imaginary: -24.000000
+	9) Real: 95.000000	 Imaginary: -26.000000
+	10) Real: 95.000000	 Imaginary: -28.000000
+
+Multiplication results
+	1) Real: 500.000000	 Imaginary: 3000.000000
+	2) Real: 606.000000	 Imaginary: 2989.000000
+	3) Real: 714.000000	 Imaginary: 2976.000000
+	4) Real: 824.000000	 Imaginary: 2961.000000
+	5) Real: 936.000000	 Imaginary: 2944.000000
+	6) Real: 1050.000000	 Imaginary: 2925.000000
+	7) Real: 1166.000000	 Imaginary: 2904.000000
+	8) Real: 1284.000000	 Imaginary: 2881.000000
+	9) Real: 1404.000000	 Imaginary: 2856.000000
+	10) Real: 1526.000000	 Imaginary: 2829.000000
+
+Division results
+	1) Real: 20.000000	 Imaginary: 0.833333
+	2) Real: 16.833333	 Imaginary: 0.803279
+	3) Real: 14.571429	 Imaginary: 0.774194
+	4) Real: 12.875000	 Imaginary: 0.746032
+	5) Real: 11.555556	 Imaginary: 0.718750
+	6) Real: 10.500000	 Imaginary: 0.692308
+	7) Real: 9.636364	 Imaginary: 0.666667
+	8) Real: 8.916667	 Imaginary: 0.641791
+	9) Real: 8.307692	 Imaginary: 0.617647
+	10) Real: 7.785714	 Imaginary: 0.594203
+
+
+]0;bdaylak@cs3:~/CS/CS4720/assigns/3[bdaylak@cs3 3]$ exit
+exit
+
+Script done on Tue 16 Sep 2014 09:02:48 PM EDT
